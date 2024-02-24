@@ -1,20 +1,20 @@
 In this lecture we are discussing:
-1) Memory management in java and typed of categories to store data in memory.
-2)What is stack ?
-3)What is heap ?
+1) Memory management in java and typed categories to store data in memory.
+2)What is stack?
+3)What is heap?
 4) where instance variable and local variable is allocated?
 
 #1
-In java we are managing our managing our memory using two data structure stack and heap.
+In Java we are managing memory using two data structures stack and heap.
 two categories to store data in memory:
 1) Stack data structure
 2) heap data structure
 
 #2
-Stack is data structure which follow LIFO(Last in First Out) principle.
+Stack is data structure which follows LIFO(Last in First Out) principle.
 
 #3
-heap is data structure which is used to store data in form of object and object is a collection of data and method.
+heap is data structure that is used to store data in form of object and object is a collection of data and method.
 
 #4
 class Student{
